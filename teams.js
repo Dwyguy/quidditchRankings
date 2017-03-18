@@ -2,7 +2,8 @@
 
 var teams = {
 	'LEE': {
-		fullName: 'Lake Erie Elite'
+		id: 'LEE',
+		fullName: 'Lake Erie Elite',
 		gamesPlayed: 0,
 		wins: 0,
 		losses: 0,
@@ -16,6 +17,7 @@ var teams = {
 		opponents: []
 	},
 	'QCB': {
+		id: 'QCB',
 		fullName: 'Quidditch Club Boston'
 		gamesPlayed: 0,
 		wins: 0,
